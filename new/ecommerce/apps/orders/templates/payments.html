@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Payment{% endblock %}
+
+{% block content %}
+<h1>Payment</h1>
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <script
+        src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+        data-key="your_publishable_key"
+        data-amount="2000"
+        data-name="E-commerce"
+        data-description="Order payment"
+        data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+        data-locale="auto"
+        data-currency="usd">
+    </script>
+</form>
+{% endblock %}
