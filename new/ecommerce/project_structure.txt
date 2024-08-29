@@ -1,0 +1,404 @@
+Folder PATH listing for volume Windows
+Volume serial number is FC91-C721
+C:.
+�   project_structure.txt
+�   
+����complete-djano-ecommerce-youtube
+    �   db.sqlite3
+    �   manage.py
+    �   README.md
+    �   
+    ����accounts
+    �   �   admin.py
+    �   �   apps.py
+    �   �   models.py
+    �   �   tests.py
+    �   �   urls.py
+    �   �   views.py
+    �   �   __init__.py
+    �   �   
+    �   ����migrations
+    �   �   �   0001_initial.py
+    �   �   �   __init__.py
+    �   �   �   
+    �   �   ����__pycache__
+    �   �           0001_initial.cpython-310.pyc
+    �   �           0001_initial.cpython-312.pyc
+    �   �           __init__.cpython-310.pyc
+    �   �           __init__.cpython-312.pyc
+    �   �           
+    �   ����__pycache__
+    �           admin.cpython-310.pyc
+    �           admin.cpython-312.pyc
+    �           apps.cpython-310.pyc
+    �           apps.cpython-312.pyc
+    �           models.cpython-310.pyc
+    �           models.cpython-312.pyc
+    �           urls.cpython-310.pyc
+    �           urls.cpython-312.pyc
+    �           views.cpython-310.pyc
+    �           views.cpython-312.pyc
+    �           __init__.cpython-310.pyc
+    �           __init__.cpython-312.pyc
+    �           
+    ����base
+    �   �   emails.py
+    �   �   models.py
+    �   �   __init__.py
+    �   �   
+    �   ����__pycache__
+    �           emails.cpython-310.pyc
+    �           emails.cpython-312.pyc
+    �           models.cpython-310.pyc
+    �           models.cpython-312.pyc
+    �           __init__.cpython-310.pyc
+    �           __init__.cpython-312.pyc
+    �           
+    ����ecomm
+    �   �   asgi.py
+    �   �   settings.py
+    �   �   urls.py
+    �   �   wsgi.py
+    �   �   __init__.py
+    �   �   
+    �   ����__pycache__
+    �           settings.cpython-310.pyc
+    �           settings.cpython-312.pyc
+    �           settings.cpython-39.pyc
+    �           urls.cpython-310.pyc
+    �           urls.cpython-312.pyc
+    �           wsgi.cpython-310.pyc
+    �           wsgi.cpython-312.pyc
+    �           __init__.cpython-310.pyc
+    �           __init__.cpython-312.pyc
+    �           __init__.cpython-39.pyc
+    �           
+    ����home
+    �   �   admin.py
+    �   �   apps.py
+    �   �   models.py
+    �   �   tests.py
+    �   �   urls.py
+    �   �   views.py
+    �   �   __init__.py
+    �   �   
+    �   ����migrations
+    �   �   �   __init__.py
+    �   �   �   
+    �   �   ����__pycache__
+    �   �           __init__.cpython-310.pyc
+    �   �           __init__.cpython-312.pyc
+    �   �           
+    �   ����__pycache__
+    �           admin.cpython-310.pyc
+    �           admin.cpython-312.pyc
+    �           apps.cpython-310.pyc
+    �           apps.cpython-312.pyc
+    �           models.cpython-310.pyc
+    �           models.cpython-312.pyc
+    �           urls.cpython-310.pyc
+    �           urls.cpython-312.pyc
+    �           views.cpython-310.pyc
+    �           views.cpython-312.pyc
+    �           __init__.cpython-310.pyc
+    �           __init__.cpython-312.pyc
+    �           
+    ����html
+    �   �   page-blank-starter.html
+    �   �   
+    �   ����css
+    �   �       .DS_Store
+    �   �       bootstrap.css
+    �   �       bootstrap.css.map
+    �   �       responsive.css
+    �   �       responsive.css.map
+    �   �       ui.css
+    �   �       ui.css.map
+    �   �       
+    �   ����images
+    �       �   apple-touch-icon.png
+    �       �   favicon.ico
+    �       �   logo-white.png
+    �       �   logo.png
+    �       �   logo@2x.png
+    �       �   
+    �       ����avatars
+    �       �       avatar1.jpg
+    �       �       avatar2.jpg
+    �       �       avatar3.jpg
+    �       �       
+    �       ����banners
+    �       �       1.png
+    �       �       2.png
+    �       �       banner.jpg
+    �       �       bg-cpu.jpg
+    �       �       bg-pattern.svg
+    �       �       slide1.jpg
+    �       �       slide2.jpg
+    �       �       slide3.jpg
+    �       �       
+    �       ����icons
+    �       �       flag-in.png
+    �       �       flag-kr.png
+    �       �       flag-tr.png
+    �       �       flag-usa.png
+    �       �       flag-vt.png
+    �       �       pay-american-ex.png
+    �       �       pay-bank.png
+    �       �       pay-mastercard.png
+    �       �       pay-visa-el.png
+    �       �       pay-visa.png
+    �       �       
+    �       ����items
+    �       �       1.jpg
+    �       �       2.jpg
+    �       �       3.jpg
+    �       �       4.jpg
+    �       �       5.jpg
+    �       �       6.jpg
+    �       �       7.jpg
+    �       �       comp.png
+    �       �       item-sm.jpg
+    �       �       item-sm.png
+    �       �       
+    �       ����logos
+    �       �       logo1.png
+    �       �       logo2.png
+    �       �       logo3.png
+    �       �       logo4.png
+    �       �       logo5.png
+    �       �       
+    �       ����misc
+    �       �       appstore.png
+    �       �       payments.png
+    �       �       playmarket.png
+    �       �       
+    �       ����posts
+    �               1.jpg
+    �               2.jpg
+    �               3.jpg
+    �               4.jpg
+    �               5.jpg
+    �               6.jpg
+    �               
+    ����products
+    �   �   admin.py
+    �   �   apps.py
+    �   �   models.py
+    �   �   tests.py
+    �   �   urls.py
+    �   �   views.py
+    �   �   __init__.py
+    �   �   
+    �   ����migrations
+    �   �   �   0001_initial.py
+    �   �   �   0002_colorvariant_sizevariant_product_color_variant_and_more.py
+    �   �   �   0003_alter_product_color_variant_and_more.py
+    �   �   �   __init__.py
+    �   �   �   
+    �   �   ����__pycache__
+    �   �           0001_initial.cpython-310.pyc
+    �   �           0001_initial.cpython-312.pyc
+    �   �           0002_colorvariant_sizevariant_product_color_variant_and_more.cpython-310.pyc
+    �   �           0002_colorvariant_sizevariant_product_color_variant_and_more.cpython-312.pyc
+    �   �           0003_alter_product_color_variant_and_more.cpython-310.pyc
+    �   �           0003_alter_product_color_variant_and_more.cpython-312.pyc
+    �   �           __init__.cpython-310.pyc
+    �   �           __init__.cpython-312.pyc
+    �   �           
+    �   ����__pycache__
+    �           admin.cpython-310.pyc
+    �           admin.cpython-312.pyc
+    �           apps.cpython-310.pyc
+    �           apps.cpython-312.pyc
+    �           models.cpython-310.pyc
+    �           models.cpython-312.pyc
+    �           urls.cpython-310.pyc
+    �           urls.cpython-312.pyc
+    �           views.cpython-310.pyc
+    �           views.cpython-312.pyc
+    �           __init__.cpython-310.pyc
+    �           __init__.cpython-312.pyc
+    �           
+    ����public
+    �   ����static
+    �       ����catgories
+    �       �       1.jpg
+    �       �       images.jfif
+    �       �       images_aQdeqpm.jfif
+    �       �       IMG_7792.png
+    �       �       
+    �       ����css
+    �       �       .DS_Store
+    �       �       bootstrap.css
+    �       �       bootstrap.css.map
+    �       �       responsive.css
+    �       �       responsive.css.map
+    �       �       ui.css
+    �       �       ui.css.map
+    �       �       
+    �       ����fonts
+    �       �   ����fontawesome
+    �       �   �   ����css
+    �       �   �   �       all.css
+    �       �   �   �       all.min.css
+    �       �   �   �       brands.css
+    �       �   �   �       brands.min.css
+    �       �   �   �       fontawesome.css
+    �       �   �   �       fontawesome.min.css
+    �       �   �   �       regular.css
+    �       �   �   �       regular.min.css
+    �       �   �   �       solid.css
+    �       �   �   �       solid.min.css
+    �       �   �   �       svg-with-js.css
+    �       �   �   �       svg-with-js.min.css
+    �       �   �   �       v4-shims.css
+    �       �   �   �       v4-shims.min.css
+    �       �   �   �       
+    �       �   �   ����scss
+    �       �   �   �       brands.scss
+    �       �   �   �       fontawesome.scss
+    �       �   �   �       regular.scss
+    �       �   �   �       solid.scss
+    �       �   �   �       v4-shims.scss
+    �       �   �   �       _animated.scss
+    �       �   �   �       _bordered-pulled.scss
+    �       �   �   �       _core.scss
+    �       �   �   �       _fixed-width.scss
+    �       �   �   �       _icons.scss
+    �       �   �   �       _larger.scss
+    �       �   �   �       _list.scss
+    �       �   �   �       _mixins.scss
+    �       �   �   �       _rotated-flipped.scss
+    �       �   �   �       _screen-reader.scss
+    �       �   �   �       _shims.scss
+    �       �   �   �       _stacked.scss
+    �       �   �   �       _variables.scss
+    �       �   �   �       
+    �       �   �   ����webfonts
+    �       �   �           fa-brands-400.eot
+    �       �   �           fa-brands-400.svg
+    �       �   �           fa-brands-400.ttf
+    �       �   �           fa-brands-400.woff
+    �       �   �           fa-brands-400.woff2
+    �       �   �           fa-regular-400.eot
+    �       �   �           fa-regular-400.svg
+    �       �   �           fa-regular-400.ttf
+    �       �   �           fa-regular-400.woff
+    �       �   �           fa-regular-400.woff2
+    �       �   �           fa-solid-900.eot
+    �       �   �           fa-solid-900.svg
+    �       �   �           fa-solid-900.ttf
+    �       �   �           fa-solid-900.woff
+    �       �   �           fa-solid-900.woff2
+    �       �   �           
+    �       �   ����roboto
+    �       �           font.css
+    �       �           Roboto-Bold.ttf
+    �       �           Roboto-Light.ttf
+    �       �           Roboto-Medium.ttf
+    �       �           Roboto-Regular.ttf
+    �       �           Roboto-Thin.ttf
+    �       �           
+    �       ����images
+    �       �   �   apple-touch-icon.png
+    �       �   �   favicon.ico
+    �       �   �   logo-white.png
+    �       �   �   logo.png
+    �       �   �   logo@2x.png
+    �       �   �   
+    �       �   ����avatars
+    �       �   �       avatar1.jpg
+    �       �   �       avatar2.jpg
+    �       �   �       avatar3.jpg
+    �       �   �       
+    �       �   ����banners
+    �       �   �       1.png
+    �       �   �       2.png
+    �       �   �       banner.jpg
+    �       �   �       bg-cpu.jpg
+    �       �   �       bg-pattern.svg
+    �       �   �       slide1.jpg
+    �       �   �       slide2.jpg
+    �       �   �       slide3.jpg
+    �       �   �       
+    �       �   ����icons
+    �       �   �       flag-in.png
+    �       �   �       flag-kr.png
+    �       �   �       flag-tr.png
+    �       �   �       flag-usa.png
+    �       �   �       flag-vt.png
+    �       �   �       pay-american-ex.png
+    �       �   �       pay-bank.png
+    �       �   �       pay-mastercard.png
+    �       �   �       pay-visa-el.png
+    �       �   �       pay-visa.png
+    �       �   �       
+    �       �   ����items
+    �       �   �       1.jpg
+    �       �   �       2.jpg
+    �       �   �       3.jpg
+    �       �   �       4.jpg
+    �       �   �       5.jpg
+    �       �   �       6.jpg
+    �       �   �       7.jpg
+    �       �   �       comp.png
+    �       �   �       item-sm.jpg
+    �       �   �       item-sm.png
+    �       �   �       
+    �       �   ����logos
+    �       �   �       logo1.png
+    �       �   �       logo2.png
+    �       �   �       logo3.png
+    �       �   �       logo4.png
+    �       �   �       logo5.png
+    �       �   �       
+    �       �   ����misc
+    �       �   �       appstore.png
+    �       �   �       payments.png
+    �       �   �       playmarket.png
+    �       �   �       
+    �       �   ����posts
+    �       �           1.jpg
+    �       �           2.jpg
+    �       �           3.jpg
+    �       �           4.jpg
+    �       �           5.jpg
+    �       �           6.jpg
+    �       �           
+    �       ����js
+    �       �       bootstrap.bundle.min.js
+    �       �       jquery-2.0.0.min.js
+    �       �       script.js
+    �       �       
+    �       ����product
+    �       �       1.jpg
+    �       �       1.png
+    �       �       Capturesdfghjkolp.PNG
+    �       �       Capturesdfghjkolp_CeCb0eU.PNG
+    �       �       images.jfif
+    �       �       IMG_7792.png
+    �       �       party-wear-jeans-500x500.png
+    �       �       
+    �       ����profile
+    �               IMG_7792.png
+    �               
+    ����templates
+        ����accounts
+        �       cart.html
+        �       login.html
+        �       register.html
+        �       
+        ����base
+        �       alert.html
+        �       base.html
+        �       
+        ����cart
+        �       cart.html
+        �       
+        ����home
+        �       index.html
+        �       
+        ����product
+                product.html
+                
